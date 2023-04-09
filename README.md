@@ -15,7 +15,10 @@ To use the mobile interface, first install MaxMSP, and then install the MiraWeb 
 
 ### To install the patch
 - Download & unzip the Goldford-TruthIsWhatIs-patch folder 
-- (or, alternatively, run git clone)
+- (or, alternatively, run the following on the command line:
+
+```git clone https://github.com/einbahnstrasse/Goldford-TruthIsWhatIs-patch.git```
+
 - Move the entire folder into your Max packages folder (e.g. /Users/username/Documents/Max 8/Packages/)
 
 ### Setup
